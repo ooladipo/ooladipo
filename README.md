@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Oladipupo (Dipo) Okebunmi 👋</h1>
+<h1 align="center">Hi, I'm Oladipupo Okebunmi 👋</h1>
 <h3 align="center">Security Engineer | Cloud Security | GRC | Berlin, Germany</h3>
 
 <p align="center">
