@@ -78,8 +78,6 @@ I recently completed an **MSc in Cybersecurity (Distinction)** at Arden Universi
 | 🔧 [iso27001-evidence-automation](https://github.com/ooladipo/iso27001-evidence-automation) | Compliance-as-code: Python automation collecting ISO 27001 audit evidence directly from AWS |
 | 🔧 [detection-engineering-lab](https://github.com/ooladipo/detection-engineering-lab) | Detection engineering: Wazuh SIEM deployment with custom detection rules and attack simulation |
 
-*(Links will go live as each project is published — pin these four on my profile once complete.)*
-
 ---
 
 ### 📈 GitHub Stats
