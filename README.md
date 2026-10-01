@@ -13,7 +13,7 @@
 
 ### 🔐 About Me
 
-I'm a security engineer with **7+ years of experience** spanning security engineering, IT operations, and governance, risk & compliance (GRC), primarily in **fintech**. I design and operate the controls that keep regulated financial platforms safe — from firewall and EDR stacks to compliance automation and cloud migrations under regulatory pressure.
+I'm a security engineer with **7+ years of experience** spanning security engineering, IT operations, and governance, risk & compliance (GRC), primarily in **fintech** & **financial institutions**. I design and operate the controls that keep regulated financial platforms safe — from firewall and EDR stacks to compliance automation and cloud migrations under regulatory pressure.
 
 I recently completed an **MSc in Cybersecurity (Distinction)** at Arden University Berlin, and I'm now looking for **Security Engineer**, **Cloud Security Engineer**, or **GRC Engineer** roles across Germany.
 
