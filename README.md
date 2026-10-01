@@ -19,7 +19,6 @@ I recently completed an **MSc in Cybersecurity (Distinction)** at Arden Universi
 
 - 🛡️ Built and led an end-to-end **ISO 27001 ISMS**, achieving dual **PCI DSS + ISO 27001** certification
 - 🧰 Owned the full **Sophos suite** (Firewall XG, Intercept X EDR, Central, Email/Web Gateway) for enterprise protection
-- ☁️ Led a **Kubernetes + database migration from AWS to Huawei Cloud** to meet regulatory requirements
 - 🚨 Ran incident response on a phishing compromise → drove org-wide **MFA rollout** and a monthly security awareness programme
 - 📊 Built **disaster recovery environments** and led failover testing for critical banking infrastructure
 - 🔭 Set up **OpenTelemetry** observability for application and service monitoring
